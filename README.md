@@ -1,1 +1,1 @@
-# jenkins_script
+# Build (ROM) script for Jenkins
