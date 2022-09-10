@@ -4,12 +4,12 @@
 
 # Clone this script in your ROM Repo using following commands.
 # cd rom_repo
-# curl https://raw.githubusercontent.com/LegacyServer/Scripts/master/script_build.sh > script_build.sh
+# curl https://raw.githubusercontent.com/Tejasvp25/jenkins_script/main/script_build.sh > script_build.sh
 
 # Some User's Details. Please fill it with your own details.
 
 # Replace "legacy" with your own SSH Username in lowercase
-username=legacy
+username=tejas
 
 # Colors makes things beautiful
 export TERM=xterm
